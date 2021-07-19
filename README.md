@@ -1,4 +1,4 @@
-# Conway-s_Soldier
+# Conway's_Soldier
 
 ## Conway's Soldier Game
 Created by Ying Shan on 10/12/2014.
